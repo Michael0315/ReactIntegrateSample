@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_59b3d808147b3da069cafb73049f020b99631fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_339aedb1a3cfb0b353fdd2a5475ebf53b458bd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_5dc8a861de9b6719b3ea157438ff2291a77b1ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_07ac8864a6bf75a98254a9e65fd202e4de5ebb0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_eb9439fc382b0f88d48ccdb5b611c5fe4eaec698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_abd84d70c778a162feb22c03c886a32a97dfe67e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/library-2.4.0_bcaaee02bd4bd2c606f66bd1d78259df9a5c250f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/develop/android-sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_407dbb9d2cb6ab2c6f831ec4eba1077272522ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_08e73b445945c60e715100b52cb490a97c1dae00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/okio-1.9.0_83c6f510a9bb5d5368e09c34aee460b104601603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_b0027aeb7afc2042ddfd6d83c5b8ec36dd25ccc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_b4db500a009abed96a5fe412a8dd683fb490fe2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_3afde4d2316fa692b95ca3aa25bf53e29f5c2d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_c89caa1a9c813b3f07ccf0bb312fef54cdfbca8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_f1b5ff24231e521d599bc54a5949e7acedc0effe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_8f43c4773dfba549dd57470995ec7c91af7a9210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_bf78d45775442e601ab58f24ea524c5fd3c7eb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/javax.inject-1_96b822f37ca97c5e4cba47ba1d5f33eeee907c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_10cf1abe203644a65b9895271c7ba36ee9dfe2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_44009f73eb7970880af7e767ae8322e3edcfedb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.40.0_7e302a0a3cb22b176cfccc04801f9dc7039060cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/yangliu/code/github/ReactIntegrate/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_bd3f21592b63a06726bea6caee74e17ab1668b73.jar" />
+    </item>
+
+</items>
