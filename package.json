@@ -1,0 +1,16 @@
+{
+  "name": "react-native-module",
+  "version": "1.0.0",
+  "description": "react native module integrated with android ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "yangliu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.40.0"
+  }
+}
